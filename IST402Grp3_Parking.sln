@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "IST402Grp3_Parking", "IST402Grp3_Parking\IST402Grp3_Parking.rptproj", "{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}.Debug|Default.ActiveCfg = Debug
+		{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}.Debug|Default.Build.0 = Debug
+		{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}.Debug|Default.Deploy.0 = Debug
+		{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}.DebugLocal|Default.Build.0 = DebugLocal
+		{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}.Release|Default.ActiveCfg = Release
+		{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}.Release|Default.Build.0 = Release
+		{412FDBD1-DE2C-495D-9B34-6EB8FE964A7E}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
